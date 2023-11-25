@@ -1,1 +1,1 @@
-#  Structured streaming processing using Apache pyspark
+#  Structured stream  processing using Apache pyspark
